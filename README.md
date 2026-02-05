@@ -23,6 +23,13 @@
 - **文件**：`VLM_Training_ms_swift_Guide.md`
 - **学习目标**：掌握 VLM 的全流程训练方法（SFT, DPO, GRPO 等）及 ms-swift 框架的核心原理与应用。
 
+
+### 课程四：Agent Skills
+位于目录 `课程四_agent_skills/` 下。
+- **核心内容**：Agent Skills 方法全面技术解析，涵盖架构设计、路由算法、编排机制、生态系统及最佳实践。
+- **文件**：`agent_skills_comprehensive_guide.md`
+- **学习目标**：深入理解智能体技能（Agent Skills）的模块化设计范式，掌握 Skill Router、Orchestrator 等核心组件的原理与实现。
+
 ## 后续计划
 未来将持续更新更多课程内容，例如：
-- 课程四：[待定]
+- 课程五：[待定]
