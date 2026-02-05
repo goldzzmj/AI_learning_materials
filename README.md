@@ -16,7 +16,13 @@
 - **目录**：`sglang_diffusion_analysis`
 - **学习目标**：探索结构化生成语言（Structured Generation Language）如何优化扩散模型的控制与生成。
 
+
+### 课程三：VLM_Training
+位于目录 `课程三_VLM_Training/` 下。
+- **核心内容**：基于 ms-swift 框架的多模态大模型（VLM）训练与微调完全指南，以 Qwen3-VL 为例进行实战解析。
+- **文件**：`VLM_Training_ms_swift_Guide.md`
+- **学习目标**：掌握 VLM 的全流程训练方法（SFT, DPO, GRPO 等）及 ms-swift 框架的核心原理与应用。
+
 ## 后续计划
 未来将持续更新更多课程内容，例如：
-- 课程三：[待定]
 - 课程四：[待定]
