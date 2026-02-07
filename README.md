@@ -46,7 +46,20 @@
     - `ms-swift-questions.md`: 常见问题与解答
 - **学习目标**：全方位掌握 MS-Swift 框架的架构设计、源码实现、分布式训练能力及在多模态模型中的应用。
 
+### 课程六：OpenClaw NanoBot
+- **路径**：`课程六_openclaw_nanobot/`
+- **构建时间**：2026-02-07
+- **核心内容**：基于 OpenClaw 的 NanoBot 超轻量级个人 AI 助手项目详解。
+- **文件列表**：
+    - `OpenClaw_NanoBot_Complete_Guide.md`: NanoBot 完整指南
+    - `deployment_guide.md`: 部署指南
+    - `model_integration_guide.md`: 模型集成指南
+    - `nanobot_code_analysis.md`: 源码深度分析
+    - `openclaw_industry_research.md`: 行业研究报告
+    - `openclaw_tech_research.md`: 技术研究报告
+- **学习目标**：解析 OpenClaw NanoBot 的架构设计，学习如何构建、部署和扩展轻量级 AI Agent，并探索其技术实现与行业应用前景。
+
 ## 后续计划
 未来将持续更新更多课程内容，例如：
-- 课程六：[待定]
 - 课程七：[待定]
+- 课程八：[待定]
