@@ -411,7 +411,7 @@ $$
 - 目标仓库：`https://github.com/goldzzmj/AI_learning_materials.git`
 - 新增文件：`课程九_skills-pua_vs_nopua.md`
 - 推送分支：`main`
-- 提交哈希：`b5afde2`
+- 提交哈希：见仓库最新 `git log`
 - 推送状态：**已成功推送到 origin/main**
 
 ---
