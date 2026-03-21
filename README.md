@@ -13,6 +13,7 @@
 - `课程七_OpenClaw-RL/`
 - `课程八_MiroThinker/`
 - `课程九_skills-pua_vs_nopua/`
+- `课程十_MiroFish/`
 
 ## 课程总览
 
@@ -27,6 +28,7 @@
 | 课程七 | OpenClaw-RL 强化学习框架解析 | `课程七_OpenClaw-RL/` | `OpenClaw-RL深度解析.md` |
 | 课程八 | MiroThinker 深度研究 Agent 技术解析 | `课程八_MiroThinker/` | `MiroThinker技术深度解析.md` |
 | 课程九 | Skills-PUA vs NoPUA 攻防与对齐分析 | `课程九_skills-pua_vs_nopua/` | `Skills-PUA_vs_NoPUA技术深度解析.md` |
+| 课程十 | MiroFish 多智能体预测引擎深度解析 | `课程十_MiroFish/` | `MiroFish技术深度解析.md` |
 
 ## 建议学习路径
 
@@ -37,3 +39,4 @@
 ## 更新记录
 
 - 2026-03-20：README 同步更新至课程九，补充课程总览与学习路径。
+- 2026-03-22：新增课程十 MiroFish，补充课程目录与总览表。
