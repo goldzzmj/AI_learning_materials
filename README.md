@@ -14,6 +14,7 @@
 - `课程八_MiroThinker/`
 - `课程九_skills-pua_vs_nopua/`
 - `课程十_MiroFish/`
+- `课程十一_LTX-Desktop/`
 
 ## 课程总览
 
@@ -29,14 +30,17 @@
 | 课程八 | MiroThinker 深度研究 Agent 技术解析 | `课程八_MiroThinker/` | `MiroThinker技术深度解析.md` |
 | 课程九 | Skills-PUA vs NoPUA 攻防与对齐分析 | `课程九_skills-pua_vs_nopua/` | `Skills-PUA_vs_NoPUA技术深度解析.md` |
 | 课程十 | MiroFish 多智能体预测引擎深度解析 | `课程十_MiroFish/` | `MiroFish技术深度解析.md` |
+| 课程十一 | LTX-Desktop AI 桌面视频生成工程解析 | `课程十一_LTX-Desktop/` | `LTX-Desktop技术深度解析.md` |
 
 ## 建议学习路径
 
 1. `课程一` -> `课程三`：先建立推理与训练基础。
 2. `课程四` -> `课程六`：再进入 Agent 架构与工程化实践。
-3. `课程七` -> `课程九`：最后学习 RL 扩展与安全对齐攻防。
+3. `课程七` -> `课程十`：继续学习 RL 扩展、安全对齐攻防与多 Agent 预测系统。
+4. `课程十一`：最后补充 AI 桌面应用工程化、本地/云混合推理与产品化交付实践。
 
 ## 更新记录
 
 - 2026-03-20：README 同步更新至课程九，补充课程总览与学习路径。
 - 2026-03-22：新增课程十 MiroFish，补充课程目录与总览表。
+- 2026-03-24：新增课程十一 LTX-Desktop，补充课程目录、课程总览与学习路径。
